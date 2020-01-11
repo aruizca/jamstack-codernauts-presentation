@@ -1,0 +1,21 @@
+{
+  "name": "jamstack-codernauts-presentation",
+  "version": "1.0.0",
+  "description": "JAMstack presentation for Codernauts",
+  "scripts": {
+    "start": "reveal-md ./presentation.md -w --css assets/css/custom.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aruizca/jamstack-codernauts-presentation.git"
+  },
+  "author": "@aruizca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aruizca/jamstack-codernauts-presentation/issues"
+  },
+  "homepage": "https://github.com/aruizca/jamstack-codernauts-presentation#readme",
+  "devDependencies": {
+    "reveal-md": "^3.4.2"
+  }
+}

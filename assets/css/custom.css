@@ -1,0 +1,16 @@
+.reveal span.lowercase {
+    text-transform: lowercase;
+}
+
+.reveal #comalatech-logo img {
+    border: 0;
+    background: none;
+    box-shadow: none;
+    margin: 0;
+    height: 50%;
+}
+
+.reveal table {
+    font-size: .8em;
+}
+
