@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "JAMstack presentation for Codernauts",
   "scripts": {
-    "start": "reveal-md ./presentation.md -w --css assets/css/custom.css",
-    "build": "reveal-md ./presentation.md -w --css assets/css/custom.css --static --static-dirs=assets"
+    "start": "reveal-md ./index.md -w --css assets/css/custom.css",
+    "build": "reveal-md ./index.md -w --css assets/css/custom.css --static --static-dirs=assets"
   },
   "repository": {
     "type": "git",
@@ -12,6 +12,9 @@
   },
   "author": "@aruizca",
   "license": "MIT",
+  "engines": {
+    "node": "=13.6.0"
+  },
   "bugs": {
     "url": "https://github.com/aruizca/jamstack-codernauts-presentation/issues"
   },
