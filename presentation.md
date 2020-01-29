@@ -206,10 +206,12 @@ npm 👉 biggest library repository in the world with ~500K packages
 ![Git deployments](./assets/images/git-deployments.png)
 
 ---
-### Continuous Integration
+### Continuos Integration
+
+![Continuous Integration](./assets/images/continuous-integration.png)
 
 ---
 ### Cloud infrastructure
 
 ---
-### Examples
+### Other Examples
