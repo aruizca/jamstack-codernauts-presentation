@@ -170,15 +170,29 @@ npm 👉 biggest library repository in the world with ~500K packages
 ---
 ### API<span class="lowercase">s</span>
 
-* Content APIs => Headless CMS
-<!-- .element: class="fragment" data-fragment-index="1" -->
 * REST / {json:api} / GraphQL
-<!-- .element: class="fragment" data-fragment-index="2" -->
+<!-- .element: class="fragment" data-fragment-index="1" -->
 * API Economy
-<!-- .element: class="fragment" data-fragment-index="3" -->
+<!-- .element: class="fragment" data-fragment-index="2" -->
    
 ![JS Tools and Libs](./assets/images/headless-allthethings.png)
+<!-- .element: class="fragment" data-fragment-index="2" -->
+
+----
+### S<span class="lowercase">ervices</span>
+
+* Content APIs => Headless CMS
+<!-- .element: class="fragment" data-fragment-index="1" -->
+* Digital Assests
+<!-- .element: class="fragment" data-fragment-index="2" -->
+* Authentication
+<!-- .element: class="fragment" data-fragment-index="3" -->
+* Files
 <!-- .element: class="fragment" data-fragment-index="4" -->
+* eCommerce
+<!-- .element: class="fragment" data-fragment-index="5" -->
+* Banking
+<!-- .element: class="fragment" data-fragment-index="6" -->
 
 ---
 ### Markup
@@ -213,5 +227,15 @@ npm 👉 biggest library repository in the world with ~500K packages
 ---
 ### Cloud infrastructure
 
+
+----
+### Serverless computing
+
 ---
 ### Other Examples
+
+---
+### Questions
+
+---
+# Thank you!!!
