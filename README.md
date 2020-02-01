@@ -22,7 +22,7 @@ npm run build-pdf
 It introduces the architecture and technology involved in the [JAMStack](https://jamstack.org/) movement as a "new" (it already existed, but now it has a name ) way to implement modern web sites and applications that has gain traction quite recently.
 
 ## Tools used for the presentation
-This presentation has been implemented (yes, implemented) following JAMStack principles as it is can be pre-rendered and then statically served from any web server.
+This presentation has been implemented (yes, implemented 😉) following JAMStack principles as it is can be pre-rendered and then statically served from any web server.
 
 It is a Node.js package that uses the awesome library [reveal-md](https://github.com/webpro/reveal-md) which allows to create a presentation using the [reveal.js](https://github.com/hakimel/reveal.js) presentation library while setting the content using Markdown (and a bit of HTML markup for customisation).
 
