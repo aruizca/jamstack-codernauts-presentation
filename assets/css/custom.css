@@ -11,5 +11,9 @@
 }
 
 .reveal table {
-    font-size: .8em;
+    font-size: .7em;
+}
+
+.reveal h3#serverless-computing + p + table {
+    font-size: .6em;
 }

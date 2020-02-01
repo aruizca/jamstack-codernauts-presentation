@@ -224,20 +224,42 @@ npm 👉 biggest library repository in the world with ~500K packages
 
 ![Continuous Integration](./assets/images/continuous-integration.png)
 
+----
+### Demo Time
 
+![Demo with Netlify](./assets/images/netlify-logo.png)
 
 ---
-### Cloud infrastructure
+### Cloud runtime platforms
 
+![Cloud providers](./assets/images/cloud-providers.png)
+
+#### Shift the Burden
+<!-- .element: class="fragment" data-fragment-index="1" -->
+* Hardware maintenance overhead
+<!-- .element: class="fragment" data-fragment-index="2" -->
+* Software management overhead
+<!-- .element: class="fragment" data-fragment-index="3" -->
+* Networking and Security
+<!-- .element: class="fragment" data-fragment-index="4" -->
+* Horizontal and vertical scaling
+<!-- .element: class="fragment" data-fragment-index="5" -->
 
 ----
 ### Serverless computing
 
----
-### Other Examples
+![Serverless options](./assets/images/serverless-options.png)
+
+| |Azure Functions|AWS Lambdas|GCP Cloud Functions|
+|--- |--- |--- |--- |
+|Runtimes Available|Node.js<br/>Java<br/>.NET (C#,F#)</br>Python|Node<br/>Java<br/>.NET (C#)</br>Python</br>Go</br>Ruby|Node.js<br/>Python</br>Go|
+|Execution Timeout|5 min / 10 min|5min / 15min|1min / 9min|
 
 ---
-### Questions
+# Other Examples
+
+---
+### Questions?
 
 ---
 # Thank you!!!
