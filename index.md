@@ -212,7 +212,7 @@ npm 👉 biggest library repository in the world with ~500K packages
 ![Data Sources](./assets/images/data-sources.png)
 
 ---
-# Other Essential JAMStack technologies
+# Other Essential technologies
 
 ---
 ### Git based deployments
@@ -223,6 +223,8 @@ npm 👉 biggest library repository in the world with ~500K packages
 ### Continuos Integration
 
 ![Continuous Integration](./assets/images/continuous-integration.png)
+
+
 
 ---
 ### Cloud infrastructure
@@ -239,3 +241,6 @@ npm 👉 biggest library repository in the world with ~500K packages
 
 ---
 # Thank you!!!
+
+Presentation can be found at:
+#### https://github.com/aruizca/jamstack-codernauts-presentation
