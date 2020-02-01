@@ -4,7 +4,8 @@
   "description": "JAMstack presentation for Codernauts",
   "scripts": {
     "start": "npm i && reveal-md ./index.md -w --css assets/css/custom.css",
-    "build": "reveal-md ./index.md -w --css assets/css/custom.css --static --static-dirs=assets"
+    "build": "reveal-md ./index.md -w --css assets/css/custom.css --static --static-dirs=assets",
+    "build-pdf": "reveal-md index.md --print slides.pdf --css assets/css/custom.css"
   },
   "repository": {
     "type": "git",
