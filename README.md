@@ -43,7 +43,13 @@ It is a Node.js package that uses the awesome library [reveal-md](https://github
 * [ECMAscript](https://en.wikipedia.org/wiki/ECMAScript)
 * [ES6 For Everyone](https://es6.io/): One of the best training courses on Javascript ES6
 * [ES6 features](http://es6-features.org/)
-* 
+* [The V8 JavaScript Engine](https://nodejs.dev/the-v8-javascript-engine)
+* [Ryan Dahl: Original Node.js presentation](https://youtu.be/ztspvPYybIY)
+* [What is npm?](https://www.w3schools.com/whatis/whatis_npm.asp)
+* [What is Babel?](https://babeljs.io/docs/en/)
+* [TypeScript](https://en.wikipedia.org/wiki/TypeScript)
+* ... TODO
+
 
 
 ### Examples
